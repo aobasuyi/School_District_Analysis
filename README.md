@@ -28,9 +28,9 @@ The *loc* method was used to select all the reading and math scores from the nin
 A. **District summary results:** <br />
 - The school district summary provides a high-level snapshot of the district's key metrics. Replacing the scores of Thomas High school (THS) ninth graders slightly reduced the district's key metrics. There are 39,170 students in the district and Thomas High school (THS) has only 461 students in ninth grade.
 
-<br /> *![Image](Resources/District%20summary.png) <br />
+<br /> ![Image](Resources/District%20summary.png) <br />
 
-<br /> *![Image](Resources/District_summary_repeat.png) <br />
+<br /> ![Image](Resources/District_summary_repeat.png) <br />
 
 B. **School summary results:** <br />
 The percentage of THS students who passed who passed Math, Reading were: <br />
@@ -60,15 +60,19 @@ D. **Scores by school spending** <br />
 ![Image](Resources/Spending_ranges_per_student.png) <br /> 
 
 E. **Scores school size** <br />
-- THS falls within the medium range school size. The school performed similarly to schools of the same size.
+- The THS school size falls within the Medium school size of (1000-2000). The school performed similarly to other schools of the same size.
+
+![Image](Resources/Scores_per_school_size2.png) <br /> 
 
 F. **Scores by school type**
- - THS is a charter school. The Math and Reading scores of THS students were similar to those in Charter schools
+ - The THS school type is charter school. The THS students Math and Reading scores were similar to those of others in Charter schools
+
+![Image](Resources/Score_by_school_type.png) <br /> 
 
 ## Summary
-Four changes in the updated school district analysis after the reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs include:
-1. Thomas High School (THS) passing percentage Math and Reading scores from an average of 65% to average of 95%.
-2. The school performance improved from a low performing school to become the second highest performing school in the district.
-3. The avearge scores by grades were among the highest in the district
+Four changes in the updated school district analysis after Thomas High School ninth graders Math and Reading scores were replaced with NaNs include:
+1. Thomas High School (THS) Math and Reading scores passing percentage improved from an average of 67.1% to average of 93.5%.
+2. The school performance improved from low to the second highest performance in the school district.
+3. The avearge scores by grades 10 to 12 were among the highest in the district
 4. The school outperformed other schools within the same spending range per student.
-5. The school performed similary to other schools within same school size and type
+5. The school performed similary to other schools within same school size and type.
