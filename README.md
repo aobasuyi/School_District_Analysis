@@ -52,10 +52,12 @@ C. **Math and Reading Scores by grade** <br />
 
 | Math score per grade  | Reading score per grade |
 | ------------------------------------------------------------------- | -------------------------------------------------------- |
-|  ![Image](Resources/Math_score_per_grade.png)  |  ![Image](Resources/Reading_scores_per_grade.png)  |
+|   ![Image](Resources/Math_score_per_grade.png)   |   ![Image](Resources/Reading_scores_per_grade.png)   |
 
 D. **Scores by school spending** <br />
-- THS falls within the spending range of $630 per student. The school outperformed other students within the same spending range per student after ninth graders scores were replaced
+- THS spending range per student falls within the $630-644 range. The figure below shows that THS outperformed other schools within this spending range after the ninth graders scores were replaced.
+
+![Image](Resources/Spending_ranges_per_student.png) <br /> 
 
 E. **Scores school size** <br />
 - THS falls within the medium range school size. The school performed similarly to schools of the same size.
