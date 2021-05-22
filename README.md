@@ -25,30 +25,34 @@ You have been given the following tasks to complete the school district exam ana
 - **Codes used to replace Ninth-Grade Reading and Math Scores:** <br />
 The *loc* method was used to select all the reading and math scores from the ninth grade at Thomas High School and replaced with NaNs (codes and figure below). <br />
 
-A. **District summary results** <br />
-- The school district summary provided a high-level snapshot of the district's key metrics. Thomas High school (THS) ninth graders comprise of 461 students out of tha 39,170 students in the district. Removing the grades of Thomas High school (THS) ninth graders had minimal impact on the district's key metrics
+A. **District summary results:** <br />
+- The school district summary provides a high-level snapshot of the district's key metrics. Replacing the scores of Thomas High school (THS) ninth graders slightly reduced the district's key metrics. There are 39,170 students in the district and Thomas High school (THS) has only 461 students in ninth grade.
+
 <br /> *![Image](Resources/District%20summary.png) <br />
 
 <br /> *![Image](Resources/District_summary_repeat.png) <br />
 
-B. **School summary results** <br />
-- **Performance relative to other schools** <br />
-The percentage of THS students who passed who passed Math, Reading were:
-- Before replacing the grades of ninth graders:
-    - Math = 66.91
-    - Reading = 69.66
-    - Math and Reading = 65.07
-- After replacing the grades of ninth graders: 
-    - Math = 93.19
-    - Reading = 97.02
-    - Math and Reading = 90.63
-- Replacing Thomas High School (THS) ninth graders’ math and reading scores improved the passing percentage and the school performance, moving the school from a low performing to the second highest performing school in the district.
-!(image), !(image), !(image) <br />
+B. **School summary results:** <br />
+The percentage of THS students who passed who passed Math, Reading were: <br />
 
-**The impact of replacing THS ninth grades on the following**   <br />
+- Before replacing the grades of ninth graders:
+    - Math = 66.91%
+    - Reading = 69.66%
+    - Math and Reading = 65.07%
+- After replacing the grades of ninth graders: 
+    - Math = 93.19%
+    - Reading = 97.02%
+    - Math and Reading = 90.63%
+- Replacing Thomas High School (THS) ninth graders’ math and reading scores improved the passing percentage and the performance of the school. It went from a low performing to the second highest performing school in the district.
+
+![Image](Resources/Top_schools_performance.png) <br /> 
 
 C. **Math and Reading Scores by grade** <br />
-- Replacing THS ninth graders scores kept the average by grades at about 83% for for Math and 84% for Reading
+- The THS ninth graders replaced scores are shown below as NaN. The scores for grades 10 to 12 Math and reading averages remained consistent at about 83.4% and 83.9% respectively, which are comparable to other high performing schools.
+
+| Math score per grade  | Reading score per grade |
+| ------------------------------------------------------------------- | -------------------------------------------------------- |
+|  ![Image](Resources/Math_score_per_grade.png)  |  ![Image](Resources/Reading_scores_per_grade.png)  |
 
 D. **Scores by school spending** <br />
 - THS falls within the spending range of $630 per student. The school outperformed other students within the same spending range per student after ninth graders scores were replaced
