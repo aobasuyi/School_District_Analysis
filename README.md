@@ -22,9 +22,6 @@ You have been given the following tasks to complete the school district exam ana
 
 ## School District Results
 
-- **Codes used to replace Ninth-Grade Reading and Math Scores:** <br />
-The *loc* method was used to select all the reading and math scores from the ninth grade at Thomas High School and replaced with NaNs (codes and figure below). <br />
-
 A. **District summary results:** <br />
 - The school district summary provides a high-level snapshot of the district's key metrics. Replacing the scores of Thomas High school (THS) ninth graders slightly reduced the district's key metrics. There are 39,170 students in the district and Thomas High school (THS) has only 461 students in ninth grade.
 
