@@ -27,7 +27,7 @@ The *loc* method was used to select all the reading and math scores from the nin
 
 A. **District summary results** <br />
 - The school district summary provided a high-level snapshot of the district's key metrics. Thomas High school (THS) ninth graders comprise of 461 students out of tha 39,170 students in the district. Removing the grades of Thomas High school (THS) ninth graders had minimal impact on the district's key metrics
-!(image)
+<br /> *![Image](analysis/County_Votes_Results.png)
 
 B. **School summary results** <br />
 - **Performance relative to other schools** <br />
